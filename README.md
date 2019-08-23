@@ -4,6 +4,4 @@ The UI used in this project can be found [HERE](https://www.uplabs.com/posts/mes
 
 ## Screenshot
 
-<img src="screenshot/capture1.png" width="328" height="668" >
-
-<img src="screenshot/capture1.png" width="328" height="668" >
+<img src="screenshot/capture1.png" width="328" height="668" > <img src="screenshot/capture2.png" width="328" height="668" >
